@@ -28,14 +28,14 @@ admininterface.php works when the event database(script included) is created.
 		Admin Panel   
 		-AdminContact.php
 		-AdminINterface.php
-		-Create.php  (only works on localhost)
+		-Create.php  
 		-CreateUserAdmin.php
 		-Reset.php
 		-Resetmessage.php
-		-Update.php  ---when you click modify in admininterface.php (only works on localhost)
+		-Update.php  ---when you click modify in admininterface.php 
 		-UserAdmin.php
 		-dbHelper.php
-		-Forgot.php (Only Works on WebHost)
+		-Forgot.php 
 
 	### Zenil Soni 
 		Login Page , Signup Page, About Us , Create Event page- 
