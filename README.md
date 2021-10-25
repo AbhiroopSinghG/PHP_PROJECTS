@@ -15,9 +15,6 @@ EventBoard Management System
 	<li>User can go register to free events or paid events.</li>
 </ul>
 
-## Web Hosting Absolute URl 
-http://eventboard.000webhostapp.com/
-
 ## Working
 The project starts executing with the home page which is Index.php.
 admininterface.php works when the event database(script included) is created. 
